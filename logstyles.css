@@ -66,6 +66,7 @@ body{
   
   .message
    {
+    text-align: center;
     font-size: 17.5px;
     color:#111;
     font-weight: 1000;
